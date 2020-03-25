@@ -1,0 +1,30 @@
+body{
+	background-color: #A52A2A;
+}
+h1{
+	text-align: left;
+	color: #FF8C00;
+}
+
+p{
+	color: #7FFFD4;
+
+
+
+}
+
+h2{
+
+	text-align: left;
+	color: #5F9EA0;
+
+}
+
+img{
+	border-radius: 50%
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+}	
